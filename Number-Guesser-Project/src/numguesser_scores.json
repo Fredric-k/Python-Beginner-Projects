@@ -1,0 +1,98 @@
+{
+  "Easy": [
+    {
+      "player": "Kwame",
+      "score": 82,
+      "attempts": 2,
+      "difficulty": "Easy"
+    },
+    {
+      "player": "Ama",
+      "score": 65,
+      "attempts": 4,
+      "difficulty": "Easy"
+    },
+    {
+      "player": "Fatou",
+      "score": 49,
+      "attempts": 6,
+      "difficulty": "Easy"
+    },
+    {
+      "player": "Chidi",
+      "score": 33,
+      "attempts": 8,
+      "difficulty": "Easy"
+    },
+    {
+      "player": "Ayo",
+      "score": 91,
+      "attempts": 1,
+      "difficulty": "Easy"
+    }
+  ],
+  "Medium": [
+    {
+      "player": "Kofi",
+      "score": 140,
+      "attempts": 1,
+      "difficulty": "Medium"
+    },
+    {
+      "player": "Zainab",
+      "score": 126,
+      "attempts": 2,
+      "difficulty": "Medium"
+    },
+    {
+      "player": "Nia",
+      "score": 117,
+      "attempts": 3,
+      "difficulty": "Medium"
+    },
+    {
+      "player": "Oba",
+      "score": 108,
+      "attempts": 4,
+      "difficulty": "Medium"
+    },
+    {
+      "player": "Sefu",
+      "score": 95,
+      "attempts": 6,
+      "difficulty": "Medium"
+    }
+  ],
+  "Hard": [
+    {
+      "player": "Thabo",
+      "score": 195,
+      "attempts": 1,
+      "difficulty": "Hard"
+    },
+    {
+      "player": "Amina",
+      "score": 182,
+      "attempts": 2,
+      "difficulty": "Hard"
+    },
+    {
+      "player": "Taye",
+      "score": 165,
+      "attempts": 3,
+      "difficulty": "Hard"
+    },
+    {
+      "player": "Zola",
+      "score": 148,
+      "attempts": 5,
+      "difficulty": "Hard"
+    },
+    {
+      "player": "Efe",
+      "score": 130,
+      "attempts": 7,
+      "difficulty": "Hard"
+    }
+  ]
+}
