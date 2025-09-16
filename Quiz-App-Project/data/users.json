@@ -1,0 +1,42 @@
+{
+    "admins": [
+        {
+            "id": "TH35868290",
+            "name": "Alice Badu",
+            "password": "03e92c8479f313e4e38702752171e4e240ba6fd7d317956c0e478eac3ee6dd9a",
+            "role": "teacher"
+        },
+        {
+            "id": "TH69031435",
+            "name": "David Kumson",
+            "password": "4178f2f9b044d9c6a87700312591750f97777a015da58cfce539fd7f95554ca0",
+            "role": "teacher"
+        },
+        {
+            "id": "TH20315141",
+            "name": "Frank Manu",
+            "password": "68ab0513f5fc0ae0f03b0522ad467bedf8adbb45c33b8d5ef99d2b92ef3551e8",
+            "role": "teacher"
+        }
+    ],
+    "players": [
+        {
+            "id": "ST96746031",
+            "name": "Emma Nortey",
+            "password": "03d2d02a67db3f783a6667b2b155ad108b1754cfc3c81ae42bae68c113df2aa1",
+            "role": "student"
+        },
+        {
+            "id": "ST29195083",
+            "name": "Clara Agbagbin",
+            "password": "620c8038cda584290cdb2499da9ef3099cfa17bd82f33ebe1a5c0e0c1487d514",
+            "role": "student"
+        },
+        {
+            "id": "ST89715833",
+            "name": "Brian Nsia",
+            "password": "e218b540bc0c58468d180233a405632bcac193875cae97a2e67d34a4f17e1ff8",
+            "role": "student"
+        }
+    ]
+}

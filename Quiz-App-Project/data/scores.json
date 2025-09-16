@@ -1,0 +1,41 @@
+{
+    "QZ-40594": {
+        "ST96746031": {
+            "playerID": "ST96746031",
+            "score": 6,
+            "scorePercent": 60.0,
+            "totalQuestions": 10,
+            "timeTaken": 108.05744218826294
+        },
+        "ST29195083": {
+            "playerID": "ST29195083",
+            "score": 7,
+            "scorePercent": 70.0,
+            "totalQuestions": 10,
+            "timeTaken": 50.08329224586487
+        },
+        "ST89715833": {
+            "playerID": "ST89715833",
+            "score": 9,
+            "scorePercent": 90.0,
+            "totalQuestions": 10,
+            "timeTaken": 74.96598243713379
+        }
+    },
+    "QZ-74629": {
+        "ST89715833": {
+            "playerID": "ST89715833",
+            "score": 3,
+            "scorePercent": 50.0,
+            "totalQuestions": 6,
+            "timeTaken": 68.86905145645142
+        },
+        "ST29195083": {
+            "playerID": "ST29195083",
+            "score": 3,
+            "scorePercent": 50.0,
+            "totalQuestions": 6,
+            "timeTaken": 180.0
+        }
+    }
+}
