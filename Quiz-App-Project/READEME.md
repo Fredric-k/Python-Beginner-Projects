@@ -32,22 +32,21 @@
 
 ## 📂 Project Structure
 Quiz-App-Project/
-│
-├── data/                     # Stores JSON files for persistence
-│   ├── users.json            # Registered users data
-│   ├── quizzes.json          # Saved quizzes
-│   └── scores.json           # Student scores and quiz attempts
-│
-├── src/                      # Source code for the app
-│   ├── quizmaster_main.py    # Main entry point (runs the program)
-│   ├── quiz_admin.py         # Teacher quiz management (create, preview, save)
-│   ├── quiz_student.py       # Student quiz logic (join, take quiz, scoring)
-│   ├── user_auth.py          # Signup/Login system (authentication)
-│   ├── utils.py              # Helper functions (file handling, timers, scoring)
-│   └── consolefx.py          # Console effects & animations (banners, loading, spinner)
-│
-├── quizmaster.ico            # App icon (used in .exe build)
-└── README.md                 # Project documentation and instructions
+- data/                  `# Stores JSON files for persistence`
+ - users.json            `# Registered users data`
+ - quizzes.json          `# Saved quizzes`
+ - scores.json           `# Student scores and quiz attempts`
+
+- src/                    `# Source code for the app`
+  - quizmaster_main.py    `# Main entry point (runs the program)`
+  - quiz_admin.py         `# Teacher quiz management (create, preview, save)`
+  - quiz_student.py       `# Student quiz logic (join, take quiz, scoring)`
+  - user_auth.py          `# Signup/Login system (authentication)`
+  - utils.py              `# Helper functions (file handling, timers, scoring)`
+  - consolefx.py          `# Console effects & animations (banners, loading, spinner)`
+
+- quizmaster.ico          `# App icon (used in .exe build)`
+- README.md               `# Project documentation and instructions`
 
 ## 🛠 Installation & Setup
 
@@ -70,9 +69,9 @@ Quiz-App-Project/
 **Folder structure in `dist/`:**
 
 dist/
-│── QuizMaster.exe
-└── data/
-    ├── users.json
-    ├── quizzes.json
-    └── scores.json
+- QuizMaster.exe
+- data/
+  - users.json
+  - quizzes.json
+  - scores.json
 - **Make sure the data/ folder sits next to QuizMaster.exe so the app can read and write the JSON files.**
